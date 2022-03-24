@@ -5,13 +5,13 @@
   "publishedDefaultPageName": "P_One",
   "unpublishedDefaultPageName": "P_One",
   "invisibleActionFields": {
-    "P_Input_isCurrentPage": {
-      "unpublishedUserSetOnLoad": false,
-      "publishedUserSetOnLoad": false
-    },
     "P_One_myAgent": {
       "unpublishedUserSetOnLoad": true,
       "publishedUserSetOnLoad": true
+    },
+    "P_Input_isCurrentPage": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
     },
     "P_One_reload": {
       "unpublishedUserSetOnLoad": false,
@@ -49,19 +49,19 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "P_One_setCurrentPage": {
-      "unpublishedUserSetOnLoad": false,
-      "publishedUserSetOnLoad": false
-    },
     "P_Ec_Res_Table_economicResources": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "P_One_isCurrentPage": {
+    "P_One_setCurrentPage": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
     "P_Input_myAgent_mod": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "P_One_isCurrentPage": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
